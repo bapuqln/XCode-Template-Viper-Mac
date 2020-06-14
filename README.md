@@ -1,2 +1,2 @@
 # XCode Template for Mac
-porting from git@github.com:Juanpe/Swift-VIPER-Module.git
+porting from thanks to [Juanpe](https://github.com/Juanpe/Swift-VIPER-Module)
